@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ddyri\\source\\repos\\Bribe Scribe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ddyri\\source\\repos\\Bribe Scribe\\bot.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bot.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ddyri\\source\\repos\\Bribe Scribe\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ddyri\\source\\repos\\Bribe Scribe\\requirements.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:requirements.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ddyri\\source\\repos\\Bribe Scribe\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": ".env",
+              "DocumentMoniker": "C:\\Users\\ddyri\\source\\repos\\Bribe Scribe\\.env",
+              "RelativeDocumentMoniker": ".env",
+              "ToolTip": "C:\\Users\\ddyri\\source\\repos\\Bribe Scribe\\.env",
+              "RelativeToolTip": ".env",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-02-09T19:30:54.091Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "bot.py",
+              "DocumentMoniker": "C:\\Users\\ddyri\\source\\repos\\Bribe Scribe\\bot.py",
+              "RelativeDocumentMoniker": "bot.py",
+              "ToolTip": "C:\\Users\\ddyri\\source\\repos\\Bribe Scribe\\bot.py",
+              "RelativeToolTip": "bot.py",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAuwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-02-09T19:31:45.515Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "requirements.txt",
+              "DocumentMoniker": "C:\\Users\\ddyri\\source\\repos\\Bribe Scribe\\requirements.txt",
+              "RelativeDocumentMoniker": "requirements.txt",
+              "ToolTip": "C:\\Users\\ddyri\\source\\repos\\Bribe Scribe\\requirements.txt",
+              "RelativeToolTip": "requirements.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-02-09T19:32:16.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\ddyri\\source\\repos\\Bribe Scribe\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\ddyri\\source\\repos\\Bribe Scribe\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-02-09T19:31:59.267Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

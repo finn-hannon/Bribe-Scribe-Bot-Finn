@@ -1,0 +1,5 @@
+read memory previous messages 
+league history and context
+team flesh out history personality, coach focus history sponsorships etc
+faction summary
+multiple personas, per channel

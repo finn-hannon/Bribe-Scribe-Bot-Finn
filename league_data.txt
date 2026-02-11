@@ -1,0 +1,39 @@
+LEAGUE: The Sugarbowl (Season IV)
+Competition: Goblinissimo XL Cup
+Rounds: 11
+
+TEAMS (Team, Coach, Faction, Personality):
+Brainrot United — Joss — Nurgle — Slow and steady playstlye, experimental team development
+The Burnt Tears — Ollie — Khorne — Looking to surf opposition where possible, violent
+Ratletico Madrid — Seb — Skaven — fastest in the league, avoids confrontation, looking to score
+Arkstone Saviours — Tofa — Dwarf — Slow and steady playstlye, takes it too serious
+Pantwetters FC — Ross — Chaos Renegades — revolves around 3 big guys, tallest team in the league
+The Ball Boys — Chris — Dark Elf — high agility, prioritises high risk exciting plays
+Bensons for Orcs — Elliot — Orc — Looking to bash the opposition on the field, best suited for attrition playstyle
+Shiny Klawz — Dima — Goblin — extremely foul heavy, ran by the commissioner, likely to leverage institutional corruption
+Clan Cheesestealer — Lucas — Skaven — up and comer, most agile big guy in the league, agile and fast
+Blitzkrieg Ballers — Alex — Imperial Nobility — control heavy, rookie coach
+The Bombastic Blitzadiers — Kenny — Human — veteran coach, underperforming team, high expectations
+The Lululegion — Michal — Chaos Chosen — experimental development, rookie coach
+
+Round 2 Fixtures:
+Pantwetters FC vs Brainrot United (complete, 1-1 draw)
+Shiny Klawz vs The Ball Boys
+Bensons for Orcs vs The Burnt Tears
+The Bombastic Blitzadiers vs Clan Cheesestealer
+The Lululegion vs Blitzkrieg Ballers
+Ratletico Madrid vs Arkstone Saviours
+
+STANDINGS:
+1) Brainrot United | W:1 D:1 L:0 | Pts: 4
+2) The Burnt Tears | W:1 D:0 L:0 | Pts: 3
+3) Ratletico Madrid | W:1 D:0 L:0 | Pts: 3
+4) Arkstone Saviours | W:1 D:0 L:0 | Pts: 3
+5) Pantwetters FC | W:0 D:2 L:0 | Pts: 2
+6) The Ball Boys | W:0 D:1 L:0 | Pts: 1
+7) Bensons for Orcs | W:0 D:1 L:0 | Pts: 1
+8) Shiny Klawz | W:0 D:1 L:0 | Pts: 1
+9) Clan Cheesestealer | W:0 D:0 L:1 | Pts: 0
+10) Blitzkrieg Ballers | W:0 D:0 L:1 | Pts: 0
+11) The Bombastic Blitzadiers | W:0 D:0 L:1 | Pts: 0
+12) The Lululegion | W:0 D:0 L:1 | Pts: 0
